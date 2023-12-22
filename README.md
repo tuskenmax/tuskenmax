@@ -5,11 +5,11 @@
 ✉️ mack.maximus@gmail.com  
 🎓 AI/ML Student  
 
----
 
 ## About Me
 
-A motivated and enthusiastic student with a strong interest in machine learning and artificial intelligence. I'm passionate about leveraging these skills in practical projects to contribute to innovative solutions.
+A motivated and enthusiastic student with a strong interest in machine learning and artificial intelligence.
+I'm passionate about leveraging these skills in practical projects to contribute to innovative solutions.
 
 ## Education
 
