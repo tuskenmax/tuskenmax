@@ -2,7 +2,7 @@
 
 🌍 Prague, Czech Republic  
 📞 +420 776 352 030  
-✉️ mack.maximus@gmail.com  
+✉️ mspiridonov.dev@gmail.com  
 🎓 AI/ML Student  
 
 
