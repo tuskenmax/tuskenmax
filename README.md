@@ -2,14 +2,16 @@
 
 🌍 Prague, Czech Republic  
 📞 +420 776 352 030  
-✉️ mspiridonov.dev@gmail.com
-Data Science Developer
+✉️ mspiridonov.dev@gmail.com  
+Data Science Developer  
 🎓 AI/ML Student
 
 
 ## About Me
 
 Finishing my degree in AI engineering at FIT CTU, I’m a passionate data science enthusiast with strong tech and client communication skills and a commitment to delivering impactful solutions through AI and ML models.
+
+## [Current CV](https://drive.google.com/file/d/1LUOaz_8HdH3EBDuEbYLe0y3qbqDL_gJP/view?usp=sharing)
 
 ## Education
 
